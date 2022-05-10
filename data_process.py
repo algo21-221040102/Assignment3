@@ -1,5 +1,11 @@
 #In[]
 from get_function import *
+from jqdata import finance
+import datetime
+from datetime import timedelta
+from jqdata import *
+import pandas as pd
+import numpy as np
 # 净资产分组
 start_date='2012-04-29'
 end_date='2022-04-29'
